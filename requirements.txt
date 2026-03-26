@@ -3,3 +3,4 @@ google-generativeai
 replicate
 rembg
 Pillow
+pydantic<2.0.0
